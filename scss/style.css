@@ -521,7 +521,7 @@ img[alt=Facebook], img[alt=Twitter], img[alt=Instagram], img[alt=YouTube], img[a
     padding: 0 100px;
   }
   .banner__text {
-    padding: 30px 194px;
+    padding: 24px 130px;
     font-size: 14px;
   }
   .gallery {
@@ -559,7 +559,7 @@ img[alt=Facebook], img[alt=Twitter], img[alt=Instagram], img[alt=YouTube], img[a
     font-size: 16px;
   }
   .banner {
-    height: 65vh;
+    height: 75vh;
   }
   .banner__title, .banner__text {
     padding: 0 60px;
@@ -584,13 +584,13 @@ img[alt=Facebook], img[alt=Twitter], img[alt=Instagram], img[alt=YouTube], img[a
     font-size: 15px;
   }
   .banner {
-    height: 62vh;
+    height: 67vh;
     background-size: contain;
     background-position: center top;
   }
   .banner__title, .banner__text {
-    padding: 30px 23px;
-    font-size: 20px;
+    padding: 0px 23px;
+    font-size: 14px;
   }
   .gallery__grid {
     grid-template-columns: 1fr;
