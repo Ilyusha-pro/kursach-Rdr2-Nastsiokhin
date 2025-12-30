@@ -360,7 +360,7 @@ img[alt=Facebook], img[alt=Twitter], img[alt=Instagram], img[alt=YouTube], img[a
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  height: 110vh;
+  height: 100vh;
   width: 100%;
   position: relative;
 }
